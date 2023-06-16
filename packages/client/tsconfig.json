@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+  },
+  "include": ["."],
+  "exclude": ["dist", "build", "node_modules"]
+}
